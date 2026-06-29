@@ -13,6 +13,11 @@ class SecondLargest{
             secondLargest = arr[i];
         }
         }
+        if(secondLargest==Integer.MIN_VALUE){
+            System.out.println("No Second Largest");
+        }
+        else{
         System.out.println(secondLargest);
+        }
     }
 }
