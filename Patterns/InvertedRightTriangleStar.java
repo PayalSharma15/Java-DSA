@@ -9,3 +9,11 @@ class InvertedRightTriangleStar{
         }
     }
 }
+/*
+output:
+*****
+****
+***
+**
+*
+    */
