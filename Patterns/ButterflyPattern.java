@@ -34,7 +34,7 @@ class ButterflyPattern {
             }
             System.out.println();
         }
-    }
+    }   
 }
 /*
 Output:
