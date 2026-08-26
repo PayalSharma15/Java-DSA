@@ -11,7 +11,7 @@ public class ClassAndObject_Student {
         System.out.println("-------------------------");
     }
 
-                public static void main(String[] args) {
+        public static void main(String[] args) {
         ClassAndObject_Student student1 = new ClassAndObject_Student();
         student1.name = "John";
         student1.age = 22;
